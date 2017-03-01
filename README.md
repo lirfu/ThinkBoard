@@ -15,3 +15,4 @@ It's node based graph drawing so you can create, move, edit, connect and disconn
 
 ## Want to contribute?
 If you like this project you're welcome to contribute with code or suggestions.
+The project was created in Eclipse (Mars).
