@@ -14,5 +14,4 @@ Well, it may be easier to draw it all on paper, but any changes in the project m
 It's node based graph drawing so you can create, move, edit, connect and disconnect nodes.
 
 ## Want to contribute?
-If you like this project you're welcome to contribute with code or suggestions.
-The project was created in Eclipse (Mars).
+If you like this project you're welcome to contribute with code or suggestions.<br>The project was created in Eclipse (Mars).
